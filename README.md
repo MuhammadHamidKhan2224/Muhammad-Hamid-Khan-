@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **data analysis project**
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/muhammad-hamid-khan-853b72220](linkedin.com/in/muhammad-hamid-khan-853b72220)
+- 👨‍💻 All of my projects are available at [linkedin.com/in/muhammad-hamid-khan-853b72220](linkedin. com/in/muhammad-hamid-khan-853b72220)
 
 - 📫 How to reach me **muhammadhamidkhan2224@gmail.com**
 
