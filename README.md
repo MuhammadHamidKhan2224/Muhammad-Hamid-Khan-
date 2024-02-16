@@ -1,7 +1,7 @@
 ![logo]( https://github.com/MuhammadHamidKhan2224/Muhammad-Hamid-Khan-/blob/main/Beige%20and%20White%20Modern%20LinkedIn%20Background%20Photo.png)
 <h1 align="center">Hi 👋, I'm Muhammad Hamid Khan</h1>
 <h3 align="center">Data Sceintist from Pakistan</h3>
-
+<img align ="right" alt="coding"width="400"src"https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhamidkhan2224&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhamidkhan2224" /> </p>
 
 - 🔭 I’m currently studying **Data Analysis/ Business Analysis, Machine Learning**
