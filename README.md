@@ -1,6 +1,6 @@
 ![logo]( https://github.com/MuhammadHamidKhan2224/Muhammad-Hamid-Khan-/blob/main/Beige%20and%20White%20Modern%20LinkedIn%20Background%20Photo.png)
 <h1 align="center">Hi 👋, I'm Muhammad Hamid Khan</h1>
-<h3 align="center">A am Data Sceintist from Pakistan</h3>
+<h3 align="center">Data Sceintist from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhamidkhan2224&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhamidkhan2224" /> </p>
 
